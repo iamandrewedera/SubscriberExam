@@ -14,9 +14,13 @@ The system was built to handle the following exam requirements:
 ### Technical Requirements Met
 
 ✅ High-volume processing capabilities through Queue Workers
+
 ✅ RESTful API endpoints for subscriber management
+
 ✅ Data validation and error handling
+
 ✅ Scalable database design
+
 ✅ Comprehensive test coverage
 
 ## Features
@@ -157,7 +161,7 @@ php artisan test
 
 ## Tech Stack
 
-- **Backend**: Laravel 10
+- **Backend**: Laravel 12
 - **Frontend**: Vue 3 + Vite
 - **Database**: MySQL/PostgreSQL
 - **Queue**: Redis
